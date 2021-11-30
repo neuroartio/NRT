@@ -4,3 +4,6 @@ The first game will be based on generating unique creatures consisting of parts 
 
 The goal of the Neuroart ecosystem is to bring people together around technology development, developing innovative solutions for the video game industry. 
 The community will be able to influence the development of the project, for charitable initiatives. 
+
+Link to token audit:
+https://github.com/Rock-n-Block/AUDIT/blob/main/NRT
